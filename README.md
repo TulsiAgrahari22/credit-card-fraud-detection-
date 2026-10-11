@@ -4,8 +4,8 @@
 A two-stage cascade machine learning model to detect fraudulent credit card transactions. Stage 1 uses Logistic Regression to screen transactions, and Stage 2 uses XGBoost to examine the flagged ones more precisely.
 
 ## Dataset
-- Source: [<Kaggle dataset link yahan daalo>](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- File name: creditcard.csv
+- Source: (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- File name: creditcard.csv.py
 - The dataset is not included in this repository. Download it from the link above and place it in the same folder as the code.
 
 ## Methodology
